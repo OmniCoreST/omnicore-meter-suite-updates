@@ -4,7 +4,7 @@
   "pub_date": "2026-06-16T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/OmniCoreST/omnicore-meter-suite/releases/download/v1.0.4/OmniCore.Meter.Suite_1.0.4_x64-setup.exe",
+      "url": "https://github.com/OmniCoreST/omnicore-meter-suite-updates/releases/download/v1.0.4/OmniCore.Meter.Suite_1.0.4_x64-setup.exe",
       "signature": "untrusted comment: signature from tauri secret key\nRURGEUVxApOsYOO6J9iSOl+yHy6difW7yWqA/LvHJLYxLL8WJTkbm65Z7YaIFtf9VSzb87UzlIUwZPGzbXRrRm+u3YmdaEEFm1wg=\ntrusted comment: timestamp:1781691842\tfile:OmniCore Meter Suite_1.0.4_x64-setup.exe\n4F8RU0LwlVzXWZILvmoRdOoNgtNlBALunXJ6UyiOsh5CL8IJrjnBdHllvb0uGeKwJPJv8ELENZE4YNlB1XTnCw=="
     }
   }
