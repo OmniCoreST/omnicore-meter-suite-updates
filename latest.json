@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "notes": "Release 1.0.7 - Yeni özellikler ve hata düzeltmeleri",
+  "version": "1.0.8",
+  "notes": "Release 1.0.8 - Güncelleme sistemi test",
   "pub_date": "2026-08-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
