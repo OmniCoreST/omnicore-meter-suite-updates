@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
-  "notes": "OmniCore Meter Suite v1.0.8 - Otomatik güncelleme sistemi",
-  "pub_date": "2026-08-13T10:00:00Z",
+  "version": "1.0.9",
+  "notes": "OmniCore Meter Suite v1.0.9 - Otomatik güncelleme sistemi",
+  "pub_date": "2026-08-13T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/OmniCoreST/omnicore-meter-suite-updates/releases/download/v1.0.8/OmniCoreMeterSuite_1.0.8_x64-setup.exe"
+      "url": "https://github.com/OmniCoreST/omnicore-meter-suite-updates/releases/download/v1.0.9/OmniCoreMeterSuite_1.0.9_x64-setup.exe"
     }
   }
 }
